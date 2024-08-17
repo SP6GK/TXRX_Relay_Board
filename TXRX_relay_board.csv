@@ -1,0 +1,34 @@
+null,Sourced,Placed,References,Value,Footprint,Quantity
+1,,,"C1, C3, C7, C9, C10, C11, C16, C17, C18, C20, C22, C24",100n,0603,12
+2,,,"C4, C6, C15",22n,0805,3
+3,,,"C5, C8, C14",100n,0805,3
+4,,,"C12, C13, C21",1u,0805,3
+5,,,"C19, C23",10u,0805,2
+6,,,"R1, R4, R7, R13, R20",10k,0603,5
+7,,,"R14, R16, R17, R18, R19",1k,0603,5
+8,,,"R2, R3, R5, R6",100,2010,4
+9,,,"R8, R10",100,0603,2
+10,,,"R11, R12",510,1206,2
+11,,,R9,50,SMA_Vertical,1
+12,,,R15,10,2010,1
+13,,,"L4, L6, L7",1m,1812,3
+14,,,"L1, L2",L_Ferrite_Coupled,FT82_trafo,2
+15,,,"L3, L5",L_Small,0603,2
+16,,,L8,100u,1206,1
+17,,,"D1, D8",1N4007,D_SMA,2
+18,,,"D2, D3",Schottky,D_SMA,2
+19,,,"D4, D5",BAP64,D_SOD-323,2
+20,,,"D6, D7",D_TVS,D_SOD-323,2
+21,,,U1,OP07,SOIC-8_3.9x4.9mm_P1.27mm,1
+22,,,U2,AMS1117-5.0,SOT-223-3_TabPin2,1
+23,,,"Q1, Q2, Q5",MMSS8550HE3,SOT-23,3
+24,,,"K1, K2",RT314A05,Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm,2
+25,,,"Q4, Q6",PNP,SOT-23,2
+26,,,Q3,BC847,SOT-23,1
+27,,,RV1,10k,Potentiometer_Bourns_3296W_Vertical,1
+28,,,J1,Screw_Terminal_01x02,TerminalBlock_bornier-2_P5.08mm,1
+29,,,J2,Conn_01x08,JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical,1
+30,,,J3,IN,SMA_Amphenol_901-144_Vertical,1
+31,,,J4,IN_RF_Deck,SMA_Amphenol_901-144_Vertical,1
+32,,,J5,OUT_RF_Deck,Coax_solder,1
+33,,,J6,OUT,Coax_solder,1

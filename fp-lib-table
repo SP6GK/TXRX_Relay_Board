@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TXRX_rel_lib")(type "KiCad")(uri "${KIPRJMOD}/TXRX_rel_lib.pretty")(options "")(descr ""))
+)

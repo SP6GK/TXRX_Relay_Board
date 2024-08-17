@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TXRX_rel_sym_lim")(type "KiCad")(uri "${KIPRJMOD}/TXRX_rel_sym_lim.kicad_sym")(options "")(descr ""))
+)
