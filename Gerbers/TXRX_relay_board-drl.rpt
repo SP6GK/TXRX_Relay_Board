@@ -1,0 +1,32 @@
+Drill report for TXRX_relay_board.kicad_pcb
+Created on 2024-09-05T19:34:07+0200
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'TXRX_relay_board-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,400mm  0,0157"  (30 holes)
+    T2  0,600mm  0,0236"  (403 holes)
+    T3  0,800mm  0,0315"  (4 holes)
+    T4  0,800mm  0,0315"  (7 holes)
+    T5  0,950mm  0,0374"  (8 holes)
+    T6  1,300mm  0,0512"  (16 holes)
+    T7  1,500mm  0,0591"  (9 holes)
+    T8  1,500mm  0,0591"  (9 holes)
+    T9  1,520mm  0,0598"  (2 holes)
+    T10  1,700mm  0,0669"  (12 holes)
+    T11  4,100mm  0,1614"  (4 holes)
+
+    Total plated holes count 504
+
+
+Drill file 'TXRX_relay_board-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
