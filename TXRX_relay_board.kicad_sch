@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "TX-RX Relay Board")
-		(date "2024-09-05")
+		(date "2026-02-01")
 		(rev "1.2")
 		(company "SP6GK")
 		(comment 1 "-Input signal SWR tandem bridge")
@@ -11090,7 +11090,7 @@
 				)
 			)
 		)
-		(property "Value" "RT314A05"
+		(property "Value" "RM85-2011-35-1012"
 			(at 61.595 36.83 90)
 			(effects
 				(font
@@ -11372,7 +11372,7 @@
 				)
 			)
 		)
-		(property "Value" "RT314A05"
+		(property "Value" "RM85-2011-35-1012"
 			(at 189.23 37.465 90)
 			(effects
 				(font
